@@ -1,2 +1,2 @@
 # Atividades-Java
- Exercícios de Java do Curso do Geek University
+ Exercícios do Curso: Programação em Java | Geek University
